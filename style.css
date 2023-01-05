@@ -1,0 +1,7 @@
+body {
+	background: black;
+	background: linear-gradient(270deg, #0009, #eeea), radial-gradient(#ccc, #111);
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
